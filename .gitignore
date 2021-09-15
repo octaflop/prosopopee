@@ -3,3 +3,10 @@ build
 dist
 prosopopee.egg-info
 prosopopee/prosopopee.egg-info
+venv
+.DS_Store
+.idea/
+example/.DS_Store
+
+# site
+#kodachrome

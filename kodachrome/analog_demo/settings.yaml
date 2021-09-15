@@ -1,0 +1,22 @@
+title: a dive into film
+sub_title: some subtitle
+date: 2021-09-18
+cover: "olympus_fuji_90.jpg"
+settings:
+  night_mode: true
+sections:
+  - type: bordered-picture
+    image: "olympus_fuji_90.jpg"
+    text: "this is a barn"
+  - type: full-picture
+    image: "pentax_645_206.jpg"
+    text: "pentax"
+  - type: text
+    text: Stranger things have been known to happen
+  - type: pictures-group
+    images:
+      -
+        - name: "pentax_645_259_take2.jpg"
+          text: "another pentax"
+        - name: "olympus_fuji_67.png"
+          text: "another 35mm fuji"
